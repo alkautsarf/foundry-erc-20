@@ -1,0 +1,1 @@
+# solady-erc-20
